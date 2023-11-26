@@ -8,6 +8,9 @@ Iknowyoupassword
 
 
 
+
+
+---------------------------------------------------------------------------
 ENG:
 Online store project written by Iknowyoupassword!
 The store is written in HTML and CSS.
